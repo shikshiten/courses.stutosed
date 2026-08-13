@@ -1,0 +1,57 @@
+export type MediaURLType = 'hls' | 'youtube' | 'pdf' | 'external' | 'unknown';
+
+export interface LectureItem {
+  id?: string;
+  label: string;
+  url: string;
+  type: MediaURLType;
+  subject?: string;
+  topic?: string;
+  category?: 'videos' | 'pdfs';
+  attachmentLinks?: Record<string, string>;
+}
+
+export interface CourseTab {
+  id: string;
+  label: string;
+  items: LectureItem[];
+}
+
+export interface ParmarLecture {
+  title: string;
+  links: Record<string, string>;
+}
+
+export interface ParmarSubjectData {
+  lectures: ParmarLecture[];
+}
+
+export interface Course {
+  id: string;
+  name: string;
+  subname: string;
+  teacher: string;
+  subject: string;
+  thumb: string;
+  tabs?: CourseTab[];
+  isParmar?: boolean;
+  parmarData?: Record<string, ParmarSubjectData>;
+  isPratham?: boolean;
+  prathamBySubject?: Record<string, LectureItem[]>;
+}
+
+export interface UserProfile {
+  id: string;
+  email: string;
+  full_name?: string;
+  avatar_url?: string;
+}
+
+export interface CourseMemory {
+  courseId: string;
+  tabId: string;
+  url: string;
+  timestamp?: number;
+}
+
+export type ThemeMode = 'light' | 'dark';
