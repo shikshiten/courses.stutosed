@@ -88,7 +88,7 @@ export default function LoginPage() {
       <div style={{ maxWidth: '420px', width: '100%', background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: 'var(--r-lg)', padding: '32px', boxShadow: 'var(--sh-card)' }}>
         
         {/* Header Branding */}
-        <div style={{ textAlignment: 'center', textAlign: 'center', marginBottom: '24px' }}>
+        <div style={{ textAlign: 'center', marginBottom: '24px' }}>
           <Link href="/" style={{ display: 'inline-flex', alignItems: 'center', gap: '10px', textDecoration: 'none', color: 'var(--text)', marginBottom: '16px' }}>
             <svg
               className="brand-spike"
