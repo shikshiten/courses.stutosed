@@ -2,7 +2,7 @@
 
 import React, { useEffect, useRef, useState, useCallback } from 'react';
 import Hls from 'hls.js';
-import { LectureItem } from '@/types';
+import { LectureItem, ServerOption } from '@/types';
 
 interface VideoPlayerProps {
   playlist: LectureItem[];
@@ -28,6 +28,19 @@ export const VideoPlayer: React.FC<VideoPlayerProps> = ({
   const [qualities, setQualities] = useState<{ height: number; index: number }[]>([]);
   const [currentQuality, setCurrentQuality] = useState<number>(-1);
   const [showQualityMenu, setShowQualityMenu] = useState<boolean>(false);
+  const [selectedServerIndex, setSelectedServerIndex] = useState<number>(0);
+
+  // Reset selected server when lecture item changes
+  useEffect(() => {
+    setSelectedServerIndex(0);
+  }, [currentIndex]);
+
+  const servers: ServerOption[] = currentItem?.servers && currentItem.servers.length > 0
+    ? currentItem.servers
+    : [{ name: 'Server 1', url: currentItem?.url || '', type: currentItem?.type }];
+
+  const activeServer = servers[selectedServerIndex] || servers[0];
+  const activeUrl = activeServer?.url || currentItem?.url || '';
 
   const getYouTubeID = (url: string) => {
     const m = url.match(/(?:v=|youtu\.be\/|live\/)([a-zA-Z0-9_-]{11})/);
@@ -74,7 +87,7 @@ export const VideoPlayer: React.FC<VideoPlayerProps> = ({
       const hls = new Hls({ enableWorker: true, maxBufferLength: 30 });
       hlsRef.current = hls;
 
-      hls.loadSource(currentItem.url);
+      hls.loadSource(activeUrl);
       hls.attachMedia(video);
 
       hls.on(Hls.Events.MANIFEST_PARSED, (_, data) => {
@@ -88,10 +101,10 @@ export const VideoPlayer: React.FC<VideoPlayerProps> = ({
         hlsRef.current = null;
       };
     } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-      video.src = currentItem.url;
+      video.src = activeUrl;
       video.play().catch(() => {});
     }
-  }, [currentItem]);
+  }, [currentItem, activeUrl]);
 
   useEffect(() => {
     const video = videoRef.current;
@@ -143,17 +156,51 @@ export const VideoPlayer: React.FC<VideoPlayerProps> = ({
   }, [togglePlayPause, skipVideo, toggleFullscreen, onClose]);
 
   if (!currentItem) return null;
-  const ytId = currentItem.type === 'youtube' ? getYouTubeID(currentItem.url) : null;
+  const ytId = currentItem.type === 'youtube' ? getYouTubeID(activeUrl) : null;
+  const isEmbedableExternal = activeUrl.includes('vidmoly.me/') || activeUrl.includes('morencius.com/') || activeUrl.includes('/w/') || activeUrl.includes('/v/');
+
+  const handleDirectDownload = () => {
+    const dlTarget = currentItem.downloadUrl || activeUrl;
+    window.open(dlTarget, '_blank');
+  };
 
   return (
     <div id="player-modal" className="open" role="dialog" aria-modal="true" aria-label="Video Player">
       <div className="player-backdrop" id="player-backdrop" onClick={onClose}></div>
       <div className="player-box" id="player-box" ref={containerRef}>
-        <div className="player-top-bar">
-          <div className="player-info">
+        <div className="player-top-bar" style={{ flexWrap: 'wrap', gap: '8px' }}>
+          <div className="player-info" style={{ flex: 1, minWidth: '200px' }}>
             <div className="player-course-label" id="player-course-label">{courseName}</div>
             <div className="player-lecture-title" id="player-lecture-title">{currentItem.label}</div>
           </div>
+
+          {/* Server Switcher */}
+          {servers.length > 1 && (
+            <div className="server-switcher" style={{ display: 'flex', gap: '6px', alignItems: 'center' }}>
+              <span style={{ fontSize: '11px', opacity: 0.7, textTransform: 'uppercase', letterSpacing: '0.5px' }}>Servers:</span>
+              {servers.map((srv, idx) => (
+                <button
+                  key={idx}
+                  onClick={() => setSelectedServerIndex(idx)}
+                  className={`server-btn ${selectedServerIndex === idx ? 'active' : ''}`}
+                  style={{
+                    padding: '4px 10px',
+                    fontSize: '12px',
+                    fontWeight: 600,
+                    borderRadius: 'var(--r-md)',
+                    border: '1px solid var(--border)',
+                    background: selectedServerIndex === idx ? 'var(--accent)' : 'var(--bg-card)',
+                    color: selectedServerIndex === idx ? '#ffffff' : 'var(--text)',
+                    cursor: 'pointer',
+                    transition: 'all 0.2s ease',
+                  }}
+                >
+                  Server {idx + 1}
+                </button>
+              ))}
+            </div>
+          )}
+
           <button className="player-close-btn" onClick={onClose} title="Close (Esc)">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
               <path d="M18 6 6 18M6 6l12 12" />
@@ -170,11 +217,18 @@ export const VideoPlayer: React.FC<VideoPlayerProps> = ({
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
             />
+          ) : isEmbedableExternal ? (
+            <iframe
+              src={activeUrl}
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+              style={{ width: '100%', height: '100%', border: 'none' }}
+            />
           ) : (
             <div className="player-ext-msg">
               <p>This lecture is hosted on an external site.</p>
-              <a href={currentItem.url} target="_blank" rel="noopener noreferrer" className="open-ext-btn">
-                Open Resource ↗
+              <a href={activeUrl} target="_blank" rel="noopener noreferrer" className="open-ext-btn">
+                Open Content ↗
               </a>
             </div>
           )}
@@ -295,19 +349,17 @@ export const VideoPlayer: React.FC<VideoPlayerProps> = ({
             </div>
           )}
 
-          <a
-            href={currentItem.url}
-            target="_blank"
-            rel="noopener noreferrer"
+          <button
             className="player-nav-btn"
             id="btn-download"
-            title="Download / Copy Link"
+            onClick={handleDirectDownload}
+            title="Direct Download Video"
           >
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
               <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3" />
             </svg>
-            <span className="ctrl-label">Link</span>
-          </a>
+            <span className="ctrl-label">Download</span>
+          </button>
 
           <button
             className="player-nav-btn"

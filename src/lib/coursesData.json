@@ -1,5 +1,1419 @@
 [
   {
+    "id": "parmar-gk-3-0",
+    "name": "PARMAR GK 3.0",
+    "subname": "PARMAR GK 3.0 (Live Sync)",
+    "teacher": "Faculty",
+    "subject": "PARMAR GK 3.0",
+    "thumb": "/assets/general_thumbnail_1782650802166.png",
+    "tabs": [
+      {
+        "id": "q7ojwzcyd2",
+        "label": "▶ static gk parmar",
+        "items": [
+          {
+            "id": "x6jw1do8uk45",
+            "label": "SPORTS LEC 1 RATNA",
+            "url": "https://vidmoly.me/w/x6jw1do8uk45",
+            "downloadUrl": "https://vidmoly.me/x6jw1do8uk45.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/x6jw1do8uk45",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "2iv9vnq5dlxa",
+            "label": "SPORT PART 2 RATNA",
+            "url": "https://vidmoly.me/w/2iv9vnq5dlxa",
+            "downloadUrl": "https://vidmoly.me/2iv9vnq5dlxa.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/2iv9vnq5dlxa",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "zwtd100toap7",
+            "label": "NATIONAL ORGANIZATIONS RATNA",
+            "url": "https://vidmoly.me/w/zwtd100toap7",
+            "downloadUrl": "https://vidmoly.me/zwtd100toap7.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/zwtd100toap7",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "lkrmjhweuq44",
+            "label": "MUSICAL INSTRUMENTS RATNA",
+            "url": "https://vidmoly.me/w/lkrmjhweuq44",
+            "downloadUrl": "https://vidmoly.me/lkrmjhweuq44.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/lkrmjhweuq44",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "cd31wt0m71et",
+            "label": "INTERNATIONAL ORGANISATIONS RATNA",
+            "url": "https://vidmoly.me/w/cd31wt0m71et",
+            "downloadUrl": "https://vidmoly.me/cd31wt0m71et.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/cd31wt0m71et",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "t7x9iwm7gjvn",
+            "label": "IMPORTANT DAYS RATNA",
+            "url": "https://vidmoly.me/w/t7x9iwm7gjvn",
+            "downloadUrl": "https://vidmoly.me/t7x9iwm7gjvn.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/t7x9iwm7gjvn",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "73ta9i5xcayz",
+            "label": "GHARANA AND MUSIC RATNA",
+            "url": "https://vidmoly.me/w/73ta9i5xcayz",
+            "downloadUrl": "https://vidmoly.me/73ta9i5xcayz.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/73ta9i5xcayz",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "t2z4br9ufk35",
+            "label": "FOLK DANCES PART1 RATNA",
+            "url": "https://vidmoly.me/w/t2z4br9ufk35",
+            "downloadUrl": "https://vidmoly.me/t2z4br9ufk35.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/t2z4br9ufk35",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "ho36kk5z435o",
+            "label": "FOLK DANCE PART 2 RATNA",
+            "url": "https://vidmoly.me/w/ho36kk5z435o",
+            "downloadUrl": "https://vidmoly.me/ho36kk5z435o.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/ho36kk5z435o",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "dfaad4va5z8k",
+            "label": "FESTIVALS OF INDIA RATNA",
+            "url": "https://vidmoly.me/w/dfaad4va5z8k",
+            "downloadUrl": "https://vidmoly.me/dfaad4va5z8k.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/dfaad4va5z8k",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "87pb6ibbf5ek",
+            "label": "FESTIVALS OF INDIA PART 2 RATNA",
+            "url": "https://vidmoly.me/w/87pb6ibbf5ek",
+            "downloadUrl": "https://vidmoly.me/87pb6ibbf5ek.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/87pb6ibbf5ek",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "vbvv1atfb3wz",
+            "label": "FESTIVALS OF INDIA PART 2 RATNA (1)",
+            "url": "https://vidmoly.me/w/vbvv1atfb3wz",
+            "downloadUrl": "https://vidmoly.me/vbvv1atfb3wz.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/vbvv1atfb3wz",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "oblkpugg2y8i",
+            "label": "CLASSICAL DANCE RATNA",
+            "url": "https://vidmoly.me/w/oblkpugg2y8i",
+            "downloadUrl": "https://vidmoly.me/oblkpugg2y8i.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/oblkpugg2y8i",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "yjpo87rnaxj1",
+            "label": "CENSUS RATNA",
+            "url": "https://vidmoly.me/w/yjpo87rnaxj1",
+            "downloadUrl": "https://vidmoly.me/yjpo87rnaxj1.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/yjpo87rnaxj1",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "6g3a8ull18fk",
+            "label": "BOOKS AND AUTHORS PART 2 RATNA",
+            "url": "https://vidmoly.me/w/6g3a8ull18fk",
+            "downloadUrl": "https://vidmoly.me/6g3a8ull18fk.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/6g3a8ull18fk",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "23o1k671jzxd",
+            "label": "BOOKS AND AUTHORS PART 1 RATNA",
+            "url": "https://vidmoly.me/w/23o1k671jzxd",
+            "downloadUrl": "https://vidmoly.me/23o1k671jzxd.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/23o1k671jzxd",
+                "type": "external"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m32epok30e",
+        "label": "▶ ECONOMICS PARMAR",
+        "items": [
+          {
+            "id": "98s1mwzt46dk",
+            "label": "Poverty RATNA",
+            "url": "https://vidmoly.me/w/98s1mwzt46dk",
+            "downloadUrl": "https://vidmoly.me/98s1mwzt46dk.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/98s1mwzt46dk",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "t9ra1te1e7g3",
+            "label": "NATIONAL INCOME RATNA",
+            "url": "https://vidmoly.me/w/t9ra1te1e7g3",
+            "downloadUrl": "https://vidmoly.me/t9ra1te1e7g3.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/t9ra1te1e7g3",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "9i7c1ei6104q",
+            "label": "National Income MCQs RATNA",
+            "url": "https://vidmoly.me/w/9i7c1ei6104q",
+            "downloadUrl": "https://vidmoly.me/9i7c1ei6104q.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/9i7c1ei6104q",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "68vft6futgba",
+            "label": "MONEY SUPPLY RATNA",
+            "url": "https://vidmoly.me/w/68vft6futgba",
+            "downloadUrl": "https://vidmoly.me/68vft6futgba.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/68vft6futgba",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "tixohfbri0ta",
+            "label": "MONEY AND BANKING PART1 RATNA",
+            "url": "https://vidmoly.me/w/tixohfbri0ta",
+            "downloadUrl": "https://vidmoly.me/tixohfbri0ta.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/tixohfbri0ta",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "vixsjjsfmw0i",
+            "label": "MONETARY POLICY TOOLS RATNA",
+            "url": "https://vidmoly.me/w/vixsjjsfmw0i",
+            "downloadUrl": "https://vidmoly.me/vixsjjsfmw0i.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/vixsjjsfmw0i",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "6hsz9kllcr56",
+            "label": "MICROECONOMICS RATNA",
+            "url": "https://vidmoly.me/w/6hsz9kllcr56",
+            "downloadUrl": "https://vidmoly.me/6hsz9kllcr56.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/6hsz9kllcr56",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "pw2frsw0oqb5",
+            "label": "MICROECONOMICS MCQs RATNA",
+            "url": "https://vidmoly.me/w/pw2frsw0oqb5",
+            "downloadUrl": "https://vidmoly.me/pw2frsw0oqb5.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/pw2frsw0oqb5",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "cm2kvnhmss3s",
+            "label": "INFLATION & UNEMPLOYMENT RATNA",
+            "url": "https://vidmoly.me/w/cm2kvnhmss3s",
+            "downloadUrl": "https://vidmoly.me/cm2kvnhmss3s.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/cm2kvnhmss3s",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "sgm7iwdaln17",
+            "label": "BUDGET & TAXATION RATNA",
+            "url": "https://vidmoly.me/w/sgm7iwdaln17",
+            "downloadUrl": "https://vidmoly.me/sgm7iwdaln17.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/sgm7iwdaln17",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "ft2nxjnhdmlf",
+            "label": "BASICS OF ECONOMY RATNA",
+            "url": "https://vidmoly.me/w/ft2nxjnhdmlf",
+            "downloadUrl": "https://vidmoly.me/ft2nxjnhdmlf.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/ft2nxjnhdmlf",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "o2atebw2vqfz",
+            "label": "5 YEAR PLAN RATNA",
+            "url": "https://vidmoly.me/w/o2atebw2vqfz",
+            "downloadUrl": "https://vidmoly.me/o2atebw2vqfz.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/o2atebw2vqfz",
+                "type": "external"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rin2c84xer",
+        "label": "▶ BIOLOGY-PARMAR",
+        "items": [
+          {
+            "id": "4kpose4dhud9",
+            "label": "REPRODUCTION",
+            "url": "https://vidmoly.me/w/4kpose4dhud9",
+            "downloadUrl": "https://vidmoly.me/4kpose4dhud9.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/4kpose4dhud9",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/tisvu0nip0gb",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "f7rfsbe1160j",
+            "label": "PLANT TISSUE",
+            "url": "https://vidmoly.me/w/f7rfsbe1160j",
+            "downloadUrl": "https://vidmoly.me/f7rfsbe1160j.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/f7rfsbe1160j",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "74b3umsjsljd",
+            "label": "PLANT KINGDOM",
+            "url": "https://vidmoly.me/w/74b3umsjsljd",
+            "downloadUrl": "https://vidmoly.me/74b3umsjsljd.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/74b3umsjsljd",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "b9na8xkh7f2v",
+            "label": "NUTRITION",
+            "url": "https://vidmoly.me/w/b9na8xkh7f2v",
+            "downloadUrl": "https://vidmoly.me/b9na8xkh7f2v.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/b9na8xkh7f2v",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "xs0guqf4c10g",
+            "label": "NERVOUS SYSTEM",
+            "url": "https://vidmoly.me/w/xs0guqf4c10g",
+            "downloadUrl": "https://vidmoly.me/xs0guqf4c10g.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/xs0guqf4c10g",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "p2y5uqvd6va1",
+            "label": "HORMONES OR PLANT MOVEMENT",
+            "url": "https://vidmoly.me/w/p2y5uqvd6va1",
+            "downloadUrl": "https://vidmoly.me/p2y5uqvd6va1.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/p2y5uqvd6va1",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "a2ojlqlv0hci",
+            "label": "GENETICS AND SKELETAL SYSTEM",
+            "url": "https://vidmoly.me/w/a2ojlqlv0hci",
+            "downloadUrl": "https://vidmoly.me/a2ojlqlv0hci.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/a2ojlqlv0hci",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "8m7i7m0lz9jm",
+            "label": "GENETICS AND SKELETAL SYSTEM MCQ",
+            "url": "https://vidmoly.me/w/8m7i7m0lz9jm",
+            "downloadUrl": "https://vidmoly.me/8m7i7m0lz9jm.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/8m7i7m0lz9jm",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "na89irpce6kk",
+            "label": "DISEASES",
+            "url": "https://vidmoly.me/w/na89irpce6kk",
+            "downloadUrl": "https://vidmoly.me/na89irpce6kk.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/na89irpce6kk",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "vkfas42vlef9",
+            "label": "DISEASES MCQ",
+            "url": "https://vidmoly.me/w/vkfas42vlef9",
+            "downloadUrl": "https://vidmoly.me/vkfas42vlef9.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/vkfas42vlef9",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "p6u7wxxq1q0z",
+            "label": "DIGESTIVE AND RESPIRATORY SYSTEM",
+            "url": "https://vidmoly.me/w/p6u7wxxq1q0z",
+            "downloadUrl": "https://vidmoly.me/p6u7wxxq1q0z.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/p6u7wxxq1q0z",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "fm4lg0b54lbh",
+            "label": "CIRCULATORY AND EXCRETARY SYSTEM",
+            "url": "https://vidmoly.me/w/fm4lg0b54lbh",
+            "downloadUrl": "https://vidmoly.me/fm4lg0b54lbh.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/fm4lg0b54lbh",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "y0lr4260ci0y",
+            "label": "CELL",
+            "url": "https://vidmoly.me/w/y0lr4260ci0y",
+            "downloadUrl": "https://vidmoly.me/y0lr4260ci0y.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/y0lr4260ci0y",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "2gohcam0v6gf",
+            "label": "CELL QUESTION ASKED IN UPSC",
+            "url": "https://vidmoly.me/w/2gohcam0v6gf",
+            "downloadUrl": "https://vidmoly.me/2gohcam0v6gf.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/2gohcam0v6gf",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "ihq991pakp6l",
+            "label": "ANIMAL TISSUE",
+            "url": "https://vidmoly.me/w/ihq991pakp6l",
+            "downloadUrl": "https://vidmoly.me/ihq991pakp6l.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/ihq991pakp6l",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "7brwny4pon1i",
+            "label": "ANIMAL KINGDOM",
+            "url": "https://vidmoly.me/w/7brwny4pon1i",
+            "downloadUrl": "https://vidmoly.me/7brwny4pon1i.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/7brwny4pon1i",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "8ro1undfwyn6",
+            "label": "ANIMAL KINGDOM MCQ",
+            "url": "https://vidmoly.me/w/8ro1undfwyn6",
+            "downloadUrl": "https://vidmoly.me/8ro1undfwyn6.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/8ro1undfwyn6",
+                "type": "external"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1oz7ak2h2z",
+        "label": "▶ POLITY 3.0",
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "beu-1st-year",
+    "name": "BEU 1ST YEAR",
+    "subname": "BEU 1ST YEAR (Live Sync)",
+    "teacher": "Faculty",
+    "subject": "BEU 1ST YEAR",
+    "thumb": "/assets/computer_thumbnail_1782650750820.png",
+    "tabs": [
+      {
+        "id": "goxq5r4to2",
+        "label": "▶ ENG CHEMISTRY",
+        "items": [
+          {
+            "id": "xr8clxl5hlx6",
+            "label": "(Engineering Chemistry)(Practice Session)(Engineering Chemis",
+            "url": "https://vidmoly.me/w/xr8clxl5hlx6",
+            "downloadUrl": "https://vidmoly.me/xr8clxl5hlx6.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/xr8clxl5hlx6",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "bf9lvfpcqx00",
+            "label": "(Engineering Chemistry)(Practice Session)(Engineering Chemis (4)",
+            "url": "https://vidmoly.me/w/bf9lvfpcqx00",
+            "downloadUrl": "https://vidmoly.me/bf9lvfpcqx00.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/bf9lvfpcqx00",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "frknyzzwu499",
+            "label": "(Engineering Chemistry)(Practice Session)(Engineering Chemis (3)",
+            "url": "https://vidmoly.me/w/frknyzzwu499",
+            "downloadUrl": "https://vidmoly.me/frknyzzwu499.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/frknyzzwu499",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "pe7oj703n9o8",
+            "label": "(Engineering Chemistry)(Practice Session)(Engineering Chemis (2)",
+            "url": "https://vidmoly.me/w/pe7oj703n9o8",
+            "downloadUrl": "https://vidmoly.me/pe7oj703n9o8.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/pe7oj703n9o8",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "wps7v8kngr66",
+            "label": "(Engineering Chemistry)(Module 6) Lect 03 Epoxide ring",
+            "url": "https://vidmoly.me/w/wps7v8kngr66",
+            "downloadUrl": "https://vidmoly.me/wps7v8kngr66.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/wps7v8kngr66",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "b08uu3lsgqs1",
+            "label": "(Engineering Chemistry)(Module 6) Lect 02 Diels alder reac",
+            "url": "https://vidmoly.me/w/b08uu3lsgqs1",
+            "downloadUrl": "https://vidmoly.me/b08uu3lsgqs1.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/b08uu3lsgqs1",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "x5lc4g9zpt7i",
+            "label": "(Engineering Chemistry)(Module 6) Lect 01 organic reaction",
+            "url": "https://vidmoly.me/w/x5lc4g9zpt7i",
+            "downloadUrl": "https://vidmoly.me/x5lc4g9zpt7i.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/x5lc4g9zpt7i",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "q6bk0x18cc2y",
+            "label": "(Engineering Chemistry)(Module 4) Lect 07 Caustic Embrittl",
+            "url": "https://vidmoly.me/w/q6bk0x18cc2y",
+            "downloadUrl": "https://vidmoly.me/q6bk0x18cc2y.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/q6bk0x18cc2y",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "iy41ljk4s8j9",
+            "label": "(Engineering Chemistry)(Module 4) Lect 06 Chemistry",
+            "url": "https://vidmoly.me/w/iy41ljk4s8j9",
+            "downloadUrl": "https://vidmoly.me/iy41ljk4s8j9.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/iy41ljk4s8j9",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "ijtn2ssgb7xt",
+            "label": "(Engineering Chemistry)(Module 4) Lect 05 Boiler",
+            "url": "https://vidmoly.me/w/ijtn2ssgb7xt",
+            "downloadUrl": "https://vidmoly.me/ijtn2ssgb7xt.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/ijtn2ssgb7xt",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "67jxrue19qzb",
+            "label": "(Engineering Chemistry)(Module 4) Lect 04 Chemistry",
+            "url": "https://vidmoly.me/w/67jxrue19qzb",
+            "downloadUrl": "https://vidmoly.me/67jxrue19qzb.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/67jxrue19qzb",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "iv4l1dunv03r",
+            "label": "(Engineering Chemistry)(Module 4) Lect 03 Alkalinity M",
+            "url": "https://vidmoly.me/w/iv4l1dunv03r",
+            "downloadUrl": "https://vidmoly.me/iv4l1dunv03r.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/iv4l1dunv03r",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "uprbrnwk2c56",
+            "label": "(Engineering Chemistry)(Module 4) Lect 02 Hardness of",
+            "url": "https://vidmoly.me/w/uprbrnwk2c56",
+            "downloadUrl": "https://vidmoly.me/uprbrnwk2c56.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/uprbrnwk2c56",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "f3ssaux2o3q2",
+            "label": "(Engineering Chemistry)(Module 4) Lect 01 Hardness of",
+            "url": "https://vidmoly.me/w/f3ssaux2o3q2",
+            "downloadUrl": "https://vidmoly.me/f3ssaux2o3q2.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/f3ssaux2o3q2",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "tqu6eu3ui628",
+            "label": "(Engineering Chemistry)(Module 3) Lect 09 Chemistry Le",
+            "url": "https://vidmoly.me/w/tqu6eu3ui628",
+            "downloadUrl": "https://vidmoly.me/tqu6eu3ui628.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/tqu6eu3ui628",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "svoap3krewxl",
+            "label": "(Engineering Chemistry)(Module 3) Lect 08 Lead Storage",
+            "url": "https://vidmoly.me/w/svoap3krewxl",
+            "downloadUrl": "https://vidmoly.me/svoap3krewxl.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/svoap3krewxl",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "79o7cnnl5jil",
+            "label": "(Engineering Chemistry)(Module 3) Lect 07 Chemistry",
+            "url": "https://vidmoly.me/w/79o7cnnl5jil",
+            "downloadUrl": "https://vidmoly.me/79o7cnnl5jil.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/79o7cnnl5jil",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "jdt2c2bgb4yr",
+            "label": "(Engineering Chemistry)(Module 3) Lect 06 Corrosion",
+            "url": "https://vidmoly.me/w/jdt2c2bgb4yr",
+            "downloadUrl": "https://vidmoly.me/jdt2c2bgb4yr.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/jdt2c2bgb4yr",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "vwxuocprne9d",
+            "label": "(Engineering Chemistry)(Module 3) Lect 05 Corrosion",
+            "url": "https://vidmoly.me/w/vwxuocprne9d",
+            "downloadUrl": "https://vidmoly.me/vwxuocprne9d.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/vwxuocprne9d",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "ov5a1y6h0lqn",
+            "label": "(Engineering Chemistry)(Module 3) Lect 04 Nernst Equat",
+            "url": "https://vidmoly.me/w/ov5a1y6h0lqn",
+            "downloadUrl": "https://vidmoly.me/ov5a1y6h0lqn.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/ov5a1y6h0lqn",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "gcw3h1rbyfjo",
+            "label": "(Engineering Chemistry)(Module 3) Lect 03 EMF",
+            "url": "https://vidmoly.me/w/gcw3h1rbyfjo",
+            "downloadUrl": "https://vidmoly.me/gcw3h1rbyfjo.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/gcw3h1rbyfjo",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "k7q68h2yai3a",
+            "label": "(Engineering Chemistry)(Module 3) Lect 02 Electrochemi",
+            "url": "https://vidmoly.me/w/k7q68h2yai3a",
+            "downloadUrl": "https://vidmoly.me/k7q68h2yai3a.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/k7q68h2yai3a",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "fenvznyavcfu",
+            "label": "(Engineering Chemistry)(Module 3) Lect 01 Electrochemi",
+            "url": "https://vidmoly.me/w/fenvznyavcfu",
+            "downloadUrl": "https://vidmoly.me/fenvznyavcfu.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/fenvznyavcfu",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "x7kt8lbq9i3n",
+            "label": "(Engineering Chemistry)(Module 2) Lect 04",
+            "url": "https://vidmoly.me/w/x7kt8lbq9i3n",
+            "downloadUrl": "https://vidmoly.me/x7kt8lbq9i3n.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/x7kt8lbq9i3n",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "8ihi1yu72vtc",
+            "label": "(Engineering Chemistry)(Module 2) Lect 03 Spectroscopy",
+            "url": "https://vidmoly.me/w/8ihi1yu72vtc",
+            "downloadUrl": "https://vidmoly.me/8ihi1yu72vtc.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/8ihi1yu72vtc",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "unldj85zhm0k",
+            "label": "(Engineering Chemistry)(Module 2) Lect 02 Spectroscopy",
+            "url": "https://vidmoly.me/w/unldj85zhm0k",
+            "downloadUrl": "https://vidmoly.me/unldj85zhm0k.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/unldj85zhm0k",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/wzawghk3h2qo",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "jf5mkvx89zxz",
+            "label": "(Engineering Chemistry)(Module 2) Lect 01 Principal of",
+            "url": "https://vidmoly.me/w/jf5mkvx89zxz",
+            "downloadUrl": "https://vidmoly.me/jf5mkvx89zxz.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/jf5mkvx89zxz",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/msaip5b2hfpp",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "cw3lwkhyvmsa",
+            "label": "(Engineering Chemistry)(Module 1) Lect 10 Metal Carbon",
+            "url": "https://vidmoly.me/w/cw3lwkhyvmsa",
+            "downloadUrl": "https://vidmoly.me/cw3lwkhyvmsa.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/cw3lwkhyvmsa",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/m9s0n396q9wc",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "5uxql2kjgxds",
+            "label": "(Engineering Chemistry)(Module 1) Lect 9 Chemistry Iso",
+            "url": "https://vidmoly.me/w/5uxql2kjgxds",
+            "downloadUrl": "https://vidmoly.me/5uxql2kjgxds.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/5uxql2kjgxds",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/ex2fgh5m141m",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "urwg5a6fyfzk",
+            "label": "(Engineering Chemistry)(Module 1) Lect 08 Coordination",
+            "url": "https://vidmoly.me/w/urwg5a6fyfzk",
+            "downloadUrl": "https://vidmoly.me/urwg5a6fyfzk.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/urwg5a6fyfzk",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/yik4qj4i9d4l",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "zligdcfd1nh4",
+            "label": "(Engineering Chemistry)(Module 1) Lect 07 VSEPR Theory",
+            "url": "https://vidmoly.me/w/zligdcfd1nh4",
+            "downloadUrl": "https://vidmoly.me/zligdcfd1nh4.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/zligdcfd1nh4",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/rvdd4qy382bb",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "i56owm6cfbji",
+            "label": "(Engineering Chemistry)(Module 1) Lect 06 VSEPR Theory",
+            "url": "https://vidmoly.me/w/i56owm6cfbji",
+            "downloadUrl": "https://vidmoly.me/i56owm6cfbji.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/i56owm6cfbji",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/yekum5hnykwl",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "iiriw9w8wacg",
+            "label": "(Engineering Chemistry)(Module 1) Lect 05 Molecular Or",
+            "url": "https://vidmoly.me/w/iiriw9w8wacg",
+            "downloadUrl": "https://vidmoly.me/iiriw9w8wacg.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/iiriw9w8wacg",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/dw7db2m20yqw",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "tuwbb21uzrq6",
+            "label": "(Engineering Chemistry)(Module 1) Lect 04 Atomic and M",
+            "url": "https://vidmoly.me/w/tuwbb21uzrq6",
+            "downloadUrl": "https://vidmoly.me/tuwbb21uzrq6.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/tuwbb21uzrq6",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/lumx7r93pv6k",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "vo2xgvo24m6a",
+            "label": "(Engineering Chemistry)(Module 1) Lect 03 photoelectri",
+            "url": "https://vidmoly.me/w/vo2xgvo24m6a",
+            "downloadUrl": "https://vidmoly.me/vo2xgvo24m6a.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/vo2xgvo24m6a",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/u22perv8cql8",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "uoevermf2269",
+            "label": "(Engineering Chemistry)(Module 1) Lect 02 Dual nature",
+            "url": "https://vidmoly.me/w/uoevermf2269",
+            "downloadUrl": "https://vidmoly.me/uoevermf2269.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/uoevermf2269",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/kbuaz0t6xac7",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "umevc53v7vwr",
+            "label": "(Engineering Chemistry)(Module 1) Lect 01 Chemistry E",
+            "url": "https://vidmoly.me/w/umevc53v7vwr",
+            "downloadUrl": "https://vidmoly.me/umevc53v7vwr.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/umevc53v7vwr",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/utcfmxk7bqzs",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "09et4t8ce8mb",
+            "label": "(Engineering Chemistry)(Module 05) Lect 08 Polythene Pol",
+            "url": "https://vidmoly.me/w/09et4t8ce8mb",
+            "downloadUrl": "https://vidmoly.me/09et4t8ce8mb.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/09et4t8ce8mb",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/ws8rsa2e2m0b",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "833x2jec42ub",
+            "label": "(Engineering Chemistry)(Module 05) Lect 07 Structural di",
+            "url": "https://vidmoly.me/w/833x2jec42ub",
+            "downloadUrl": "https://vidmoly.me/833x2jec42ub.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/833x2jec42ub",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/0jw8a3y0muwn",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "biivz3rq9269",
+            "label": "(Engineering Chemistry)(Module 05) Lect 06 Inorganic Pol",
+            "url": "https://vidmoly.me/w/biivz3rq9269",
+            "downloadUrl": "https://vidmoly.me/biivz3rq9269.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/biivz3rq9269",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/bq7noctviils",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "ghjhisjeplq8",
+            "label": "(Engineering Chemistry)(Module 05) Lect 05 Buna S and Bu",
+            "url": "https://vidmoly.me/w/ghjhisjeplq8",
+            "downloadUrl": "https://vidmoly.me/ghjhisjeplq8.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/ghjhisjeplq8",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/bzxia4mhssjd",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "xadjze8shagc",
+            "label": "(Engineering Chemistry)(Module 05) Lect 04 Elastomers",
+            "url": "https://vidmoly.me/w/xadjze8shagc",
+            "downloadUrl": "https://vidmoly.me/xadjze8shagc.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/xadjze8shagc",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/vqf8g1o5iuhc",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "abkgcowtor0y",
+            "label": "(Engineering Chemistry)(Module 05) Lect 03 Technical App",
+            "url": "https://vidmoly.me/w/abkgcowtor0y",
+            "downloadUrl": "https://vidmoly.me/abkgcowtor0y.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/abkgcowtor0y",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/ed6u9mmcc2ib",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "k62w1gbedadt",
+            "label": "(Engineering Chemistry)(Module 05) Lect 02 Ionic and coo",
+            "url": "https://vidmoly.me/w/k62w1gbedadt",
+            "downloadUrl": "https://vidmoly.me/k62w1gbedadt.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/k62w1gbedadt",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/058f1lsuk9kq",
+                "type": "external"
+              }
+            ]
+          },
+          {
+            "id": "c2buih7b1kg2",
+            "label": "(Engineering Chemistry)(Module 05) Lect 01 Polymerizatio",
+            "url": "https://vidmoly.me/w/c2buih7b1kg2",
+            "downloadUrl": "https://vidmoly.me/c2buih7b1kg2.html",
+            "type": "external",
+            "servers": [
+              {
+                "name": "Server 1",
+                "url": "https://vidmoly.me/w/c2buih7b1kg2",
+                "type": "external"
+              },
+              {
+                "name": "Server 2",
+                "url": "https://morencius.com/v/4dm1ydzca73a",
+                "type": "external"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "computer",
     "name": "Computer Science",
     "subname": "Computer SPL 29",

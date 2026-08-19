@@ -1,14 +1,22 @@
 export type MediaURLType = 'hls' | 'youtube' | 'pdf' | 'external' | 'unknown';
 
+export interface ServerOption {
+  name: string;
+  url: string;
+  type?: MediaURLType;
+}
+
 export interface LectureItem {
   id?: string;
   label: string;
   url: string;
+  downloadUrl?: string;
   type: MediaURLType;
   subject?: string;
   topic?: string;
   category?: 'videos' | 'pdfs';
   attachmentLinks?: Record<string, string>;
+  servers?: ServerOption[];
 }
 
 export interface CourseTab {
